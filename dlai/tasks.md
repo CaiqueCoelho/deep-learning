@@ -52,5 +52,17 @@
  * Notebook week3 - Flower non-linear classification with TanH activation function.  
   -- Latest notebooks copied to DLAI, Class1.  
  
+ ### Monday June 1, 2020 small group meetup.  
+ Went over Quiz for week1 together.
+ Dan & Peter, watched all videos and only begun to do notebooks.  
+ Me did most of step-by-step, but was very fiddly.  
+ 2ns notebook uses Tensorflow v 1.2, can try with tensorflow v2.2 instead.  
+ Dan & Peter will present class2 hyperparameters, optimization, regularization notebooks at next week large group meetup. 
+ 
+ ### Next small group meetup, July 13, 2020 Monday.  
+ 1 day before general meetup and after SciPy virtual conference.  
+ Class 4 CNN, week2 focus, optional review of week1 notebooks.
+ 
+ 
 --- end ---   
 
