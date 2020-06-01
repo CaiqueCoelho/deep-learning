@@ -1,10 +1,10 @@
-# DLAI classes copy on Ubuntu WSL$.
+# DLAI notebooks copy on Ubuntu WSL$.
 PATH: ~/work/deep-learning/dlai/
-Date: June 2020, currently reviewing this class with a local Meetup.  
+Date: June 2020, currently reviewing CNN class with a local Meetup.  
 
 ### Author: Jennifer E Yoon  
 
-### Class 4: Convolutional Neural Networks  
+### Class 4: Convolutional Neural Networks - Coursera.org, DeepLearning.AI Specialization  
   * June 1, 2020 -- started reviewing notebook for week1, Step-by-Step.  
     Total pain in the ass matching up dimensions.  
     Do later, maybe with a glass of wine. :-)  
