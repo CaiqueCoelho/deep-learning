@@ -12,6 +12,9 @@ Coursera.org, DeepLearning.AI Specialization
     Do later, maybe with a glass of wine. :-)  
     Use solutions for now, with Meetup call tonight.  
     Watch videos and start on 2nd notebook, tensorflow introduction.  
+    
+  * June 9 to do: Class 4 has notebook 10, readme txt file, github changes not copied to this rep, still in learn-mldl repo.  
+  * Maybe don't try to reproduce the whole thing, but start one class at a time, new version?  
 
 ### Folder "source" has all downloaded notebook solutions and important papers.  
   * Solutions are as of April 2019. 
