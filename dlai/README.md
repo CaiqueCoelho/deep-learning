@@ -20,6 +20,12 @@ Coursera.org, DeepLearning.AI Specialization
   * June 9 to do: Class 4 has notebook 10, readme txt file, github changes not copied to this rep, still in learn-mldl repo.  
   * Maybe don't try to reproduce the whole thing, but start one class at a time, new version?  
 
+### Class 5: Sequence Models  
+Speach recognition, text analysis, sentiment analysis, temporal text analysis.  
+
+  * May 2020 - started watching videos and looking at notebooks.  
+  * Chollet book also has a chapter on sequence models.  
+
 ### Folder "source" has all downloaded notebook solutions and important papers.  
   * Solutions are as of April 2019. 
   * Papers -- StyleTransfer, DeepFace...  
