@@ -4,6 +4,10 @@ Date: June 2020, currently reviewing CNN class with a local Meetup.
 
 ### Author: Jennifer E Yoon  
 
+### Class 3: Structuring Machine Learning Projects  
+  * June 9, 2020 - rewatching Youtube videos, at 9/11 in playlist.  
+    At July Meetup, large group will start week 1 of class 3.  
+
 ### Class 4: Convolutional Neural Networks 
 Coursera.org, DeepLearning.AI Specialization  
 
