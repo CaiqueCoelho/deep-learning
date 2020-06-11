@@ -5,9 +5,9 @@
 ### Enfironment and Setup  
 In June 2020, moved local repo to Ubuntu side.  
 PATH: ~/work/deep-learning/dlai/  
-
 Conda environment dlpy on Ubuntu side.  
-Use with VS Code and Jupyter Notebook; Python v 3.8.  
+Use with VS Code and Jupyter Notebook; Python v 3.8.   
+
 ---  
 
 ### Class 3: Structuring Machine Learning Projects  
@@ -37,7 +37,3 @@ Speach recognition, text analysis, sentiment analysis, temporal text analysis.
   * Papers -- StyleTransfer, DeepFace...  
     
 --- end ---  
-
-    
-    
-    
