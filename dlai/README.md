@@ -1,8 +1,9 @@
-# Coursera.org DeepLearning.AI Specilaization  
+# My practice - Coursera.org DeepLearning.AI Specialization  
 
 ### Date: June 2020, currently reviewing CNN class with a local Meetup.  
 ### Author: Jennifer E Yoon  
-### Enfironment and Setup  
+
+### Environment and Setup  
 In June 2020, moved local repo to Ubuntu side.  
 PATH: ~/work/deep-learning/dlai/  
 Conda environment dlpy on Ubuntu side.  
