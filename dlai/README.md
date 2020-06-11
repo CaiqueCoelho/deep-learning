@@ -28,7 +28,7 @@ Coursera.org, DeepLearning.AI Specialization
   * Maybe don't try to reproduce the whole thing, but start one class at a time, new version?  
 
 ### Class 5: Sequence Models  
-Speach recognition, text analysis, sentiment analysis, temporal text analysis.  
+Speech recognition, text analysis, sentiment analysis, temporal image/sound/text analysis.  
 
   * May 2020 - started watching videos and looking at notebooks.  
   * Chollet book also has a chapter on sequence models.  
