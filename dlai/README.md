@@ -1,8 +1,14 @@
-# DLAI notebooks copy on Ubuntu WSL$.  
-PATH: ~/work/deep-learning/dlai/  
-Date: June 2020, currently reviewing CNN class with a local Meetup.  
+# Coursera.org DeepLearning.AI Specilaization  
 
+### Date: June 2020, currently reviewing CNN class with a local Meetup.  
 ### Author: Jennifer E Yoon  
+### Enfironment and Setup  
+In June 2020, moved local repo to Ubuntu side.  
+PATH: ~/work/deep-learning/dlai/  
+
+Conda environment dlpy on Ubuntu side.  
+Use with VS Code and Jupyter Notebook; Python v 3.8.  
+---  
 
 ### Class 3: Structuring Machine Learning Projects  
   * June 9, 2020 - rewatching Youtube videos, at 9/11 in playlist.  
