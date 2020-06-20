@@ -6,9 +6,8 @@
 ### Environment and Setup  
 In June 2020, moved local repo to Ubuntu side.  
 PATH: ~/work/deep-learning/dlai/  
-Conda environment dlpy on Ubuntu side.  
-   Use with VS Code and Jupyter Notebook; Python v 3.8. -- no. 
-   Memo: tensorflow 2.0 not compatible with Python v 3.8, use with Python v 3.7 isntead.
+Conda environment **dlpy on Ubuntu side**.   
+  * (Q: does tensorflow v 2.0 work on Ubuntu? if install using pip instead of conda?)  
 
 ---  
 
