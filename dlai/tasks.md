@@ -67,10 +67,12 @@
  Monday, small group: 
    * Dan - Class 4, week 2, notebook 1
    * Peter - week 1 notebook?  Math bits.  Me - review
+   * Peter -- checking on his noteboooks, interested in my talk SciPy, either session.
  
  Tuesday, main group:  
-   * Dan, Class 2 second half?
+   * Dan, Class 2 week 3, TF examples with v1, maybe redo with version 2? 
    * Me - TF v 2 tutorial?  Mnist on TF website.  
+   * Peter -- will be there, checking on his notebooks
  
  Check Slack for updated messages from group.  
  
