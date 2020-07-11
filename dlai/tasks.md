@@ -65,9 +65,14 @@
  
  **Update: 7/11/2020 Saturday:**  
  Monday, small group: 
- 
+   * Dan - Class 4, week 2, notebook 1
+   * Peter - week 1 notebook?  Math bits.  Me - review
  
  Tuesday, main group:  
+   * Dan, Class 2 second half?
+   * Me - TF v 2 tutorial?  Mnist on TF website.  
+ 
+ Check Slack for updated messages from group.  
  
  
 --- end ---   
