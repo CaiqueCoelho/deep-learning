@@ -63,6 +63,12 @@
  1 day before general meetup and after SciPy virtual conference.  
  Class 4 CNN, week2 focus, optional review of week1 notebooks.
  
+ **Update: 7/11/2020 Saturday:**  
+ Monday, small group: 
+ 
+ 
+ Tuesday, main group:  
+ 
  
 --- end ---   
 
