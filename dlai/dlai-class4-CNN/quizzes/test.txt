@@ -1,1 +1,3 @@
-# Add quizzes from class 4, as HTML complete style 
+# Add quizzes from class 4, as HTML complete style - no only saves 1 screen.  
+
+Add them as PDF zoomed to 30% to get all answers.  Can zoom back out when viewing, text are readable.  
