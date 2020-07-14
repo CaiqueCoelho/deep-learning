@@ -56,7 +56,7 @@
  Went over Quiz for week1 together.
  Dan & Peter, watched all videos and only begun to do notebooks.  
  Me did most of step-by-step, but was very fiddly.  
- 2ns notebook uses Tensorflow v 1.2, can try with tensorflow v2.2 instead.  
+ 2nd notebook uses Tensorflow v 1.2, can try with tensorflow v2.2 instead.  
  Dan & Peter will present class2 hyperparameters tuning, optimization notebooks (weeks 2 and 3) at large group meetupon next tuesday.  
  
  ### Next small group meetup, July 13, 2020 Monday.  
@@ -66,16 +66,21 @@
  **Update: 7/11/2020 Saturday:**  
  Monday, small group: 
    * Dan - Class 4, week 2, notebook 1
-   * Peter - week 1 notebook?  Math bits.  Me - review
    * Peter -- checking on his noteboooks, interested in my talk SciPy, either session.
  
  Tuesday, main group:  
-   * Dan, Class 2 week 3, TF examples with v1, maybe redo with version 2? 
-   * Me - TF v 2 tutorial?  Mnist on TF website.  
-   * Peter -- will be there, checking on his notebooks
+   * Dan, Class 2 week 3, TF v1 tutorial notebook, all 3 of use will try.  
+   * Peter -- will be there
  
- Check Slack for updated messages from group.  
+ ### Update 7/13/2020 - for August  
+   * small group Monday, August 3, 2020 7pm  
+     class 4, week 2, notebook 2 ResNet.  
+     Peter will present. 
  
+ Note: Class 1 had instructions for downloading zip file, exporting installed packages to file.  
+ Modify instructions for each class, may need to create different environment for each class.  
+ Use miniconda on Ubuntu recommended.  
+ To try this out.  
  
 --- end ---   
 
