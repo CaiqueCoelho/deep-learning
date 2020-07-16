@@ -1,0 +1,24 @@
+dlai.txt - Ubuntu home/dlai
+
+This is where I will run Coursera DL.AI notebooks, Ubuntu format.  
+Maximum compatibility with utility and helper files written by Andrew Ng.  
+
+Class 1 - Neural Network.  Download all items. 
+
+Class 4 - Convolutional Neural Network.  Downloaded partially.  
+
+Forum -- has notes on how to download all items.
+
+Source - solutions to 4 class with notebooks + Papers folder.  
+
+Setup:  Initially use default Ubuntu Conda3 - has tensorflow v 2.0. 
+
+10/7/2019  
+
+
+Later: consider setting up a separate conda environment "env dlai."
+
+ * Matplotlib graph does not work in Planar notebook. 
+   Python v 3.6 
+   Matplotlib version?  
+   Set up env using requirements.txt file.  
