@@ -82,5 +82,14 @@
  Use miniconda on Ubuntu recommended.  
  To try this out.  
  
+#### July 15, 2020 update  
+
+  * Next Meetup - August 11, 2020 6:30 pm  
+    Will start on Class 3.  
+
+  * Next small group - August 10, 2020 7pm.  
+    Resnet notebook, class 4, week 2, 2nd notebook - Peter will lead.  
+
+
 --- end ---   
 
