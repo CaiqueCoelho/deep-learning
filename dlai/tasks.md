@@ -70,17 +70,16 @@
  
  Tuesday, main group:  
    * Dan, Class 2 week 3, TF v1 tutorial notebook, all 3 of use will try.  
-   * Peter -- will be there
+   * Peter -- will be there  
+   
+ Note: I need to review Dan's and Peter's Tensorflow v1 and v2 notebooks.    
  
- ### Update 7/13/2020 - for August  
-   * small group Monday, August 3, 2020 7pm  
-     class 4, week 2, notebook 2 ResNet.  
-     Peter will present. 
+ #### Update 7/13/2020 - for August  
  
- Note: Class 1 had instructions for downloading zip file, exporting installed packages to file.  
- Modify instructions for each class, may need to create different environment for each class.  
- Use miniconda on Ubuntu recommended.  
- To try this out.  
+   * Note: Class 1 had instructions for downloading zip file, exporting installed packages to file.  
+   * To try this out.  
+   * Modify instructions for each class, may need to create different environment for each class.  
+ 
  
 #### July 15, 2020 update  
 
