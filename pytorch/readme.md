@@ -2,10 +2,10 @@
 
 Free class from Udacity, local Meetup started in March 2020.  
 
-conda env **dlpy (WSL)** - installed Pytorch v 1.6, stable, 8/6/2020. 
+conda env **dlpy (WSL)** - installed Pytorch v 1.6, stable, 8/6/2020.   
 (dlpy) jyoon@Asus-S510:/mnt/c/python/repos/pytorch/deep-learning-v2-pytorch$    
 
-git clone to: c:../repos/pytorch/deep-learning-vs-pytorch/
+git clone to: c:../repos/pytorch/deep-learning-vs-pytorch/  
 (dlpy) jyoon@Asus-S510:/mnt/c/python/repos/pytorch/deep-learning-v2-pytorch$  
 
 ---  
