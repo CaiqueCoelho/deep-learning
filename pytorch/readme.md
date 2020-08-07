@@ -1,4 +1,5 @@
 # Folder for Udacity Pytorch Introduction class.  
+"deep-learning-v2-pytorch", see "intro-to-pytorch"  
 
 Free class from Udacity, local Meetup started in March 2020.  
 
@@ -31,3 +32,9 @@ Lesson 9 - Deploying PyTorch Models (production)
 
 
 --  
+
+# Folder for SciPy 2020 - Pytorch tutorial  
+"deep-learning-from-scratch-pytorch"  
+Introduction to Pytorch with notebooks.  
+  * Also use conda env "dlpy" on WSL.  
+    Has PyTorch version 1.6 stable installed, 8/6/2020.  
