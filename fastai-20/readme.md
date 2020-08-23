@@ -6,9 +6,6 @@ good book, nicely condenses concepts in videos.
   * To add to repo, downloaded book zip - done.  
   * Purchased physical book, 8/22/2020.  
 
-March 2020 class released around July 2020?  Github repo available.  
-fastai software v1 use, dev version, v2, is not complete.  
-
 2016 fast.ai founded.  
 
 2018 classes use fastai v 0.7   
