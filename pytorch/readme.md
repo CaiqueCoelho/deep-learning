@@ -1,7 +1,7 @@
 # PyTorch tutorials  
   * From SciPy 2020 - ML from Scratch with PyTorch  
   * From Udacity - free class with NOVA Meetup, Intro to PyTorch  
-    (Part of full nanodegree in Machine Learning/ Deep Learning)  
+    (Part of Udacity nanodegree - Deep Learning)  
 
 ---  
 
