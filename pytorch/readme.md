@@ -1,4 +1,19 @@
-# Folder for Udacity Pytorch Introduction class.  
+# PyTorch tutorials  
+  * From SciPy 2020 - ML from Scratch with PyTorch  
+  * From Udacity - free class with NOVA Meetup, Intro to PyTorch  
+    (Part of full nanodegree in Machine Learning/ Deep Learning)  
+
+---  
+
+## Folder for SciPy 2020 - Pytorch tutorial  
+"deep-learning-from-scratch-pytorch"  
+Introduction to Pytorch with notebooks.  
+  * Also use conda env "dlpy" on WSL.  
+    Has PyTorch version 1.6 stable installed, 8/6/2020.  
+    
+---      
+    
+## Folder for Udacity Pytorch Introduction class.  
 "deep-learning-v2-pytorch", see "intro-to-pytorch"  
 
 Free class from Udacity, local Meetup started in March 2020.  
@@ -9,7 +24,7 @@ conda env **dlpy (WSL)** - installed Pytorch v 1.6, stable, 8/6/2020.
 git clone to: c:../repos/pytorch/deep-learning-vs-pytorch/  
 (dlpy) jyoon@Asus-S510:/mnt/c/python/repos/pytorch/deep-learning-v2-pytorch$  
 
----  
+#### Lessons:  
 
 Lesson 1 - instructors, I'm Luis Serrano, the lead instructor for this course. 
 
@@ -31,10 +46,4 @@ Lesson 8 - Sentiment Prediction RNNs
 Lesson 9 - Deploying PyTorch Models (production)    
 
 
---  
 
-# Folder for SciPy 2020 - Pytorch tutorial  
-"deep-learning-from-scratch-pytorch"  
-Introduction to Pytorch with notebooks.  
-  * Also use conda env "dlpy" on WSL.  
-    Has PyTorch version 1.6 stable installed, 8/6/2020.  
