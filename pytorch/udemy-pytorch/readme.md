@@ -1,3 +1,6 @@
 # Udemy, PyTorch Complete Class - Jose Portilla  
 
-Put notes here. 
+Pytorch DL class - Jose Portilla - guest 8/5/2020
+https://hhmi.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/learn/lecture/14837938#overview  
+
+Put practice notes here. 
