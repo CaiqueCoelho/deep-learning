@@ -12,25 +12,26 @@ PATH: c:/python/repos/deep-learning/
 
 ### Class 1: Neural Networks  
   * Finished in Fall 2019.  
-  * Week 3, 4 has detailed math for forward and backward pass, stochastic gradient descent, intergration of popular activation functions. 
   
 ### Class 2: Hyperparameters tuning  
   * Finished in Fall 2019.  
-  * Reviewed with Meetup main group.  
 
 ### Class 3: Structuring Machine Learning Projects  
   * Finished in Jan 2020.
-  * June 9, 2020 - rewatching Youtube videos, at 9/11 in playlist.  
-  * Meetup main group, on week 2, September meeting.  
 
 ### Class 4: Convolutional Neural Networks 
-  * WIP, August 2020  
-  * Meetup small group, finished ResNet notebook in July.  
-  * August -- will discuss YOLO notebook, maybe revew backprop.  
-    \-
-  * June 1, 2020 -- started reviewing notebook for week1, Step-by-Step.  
-    matching up dimensions using numpy - requires patience.   
-  * June 9 to do: Class 4 has notebook 10, readme txt file, github changes not copied to this rep, still in learn-mldl repo.   
+  Downloaded tar files to local computer, all notebooks work.  
+  Manually copied image folder, and other sub folders to Github.  
+  Data files for some weeks too large > 100MB, did not push to Github  
+  (Instead in local c:\.~dlai-large-file folder.)
+    \-  
+  * Small group 9/15 TU - Dan, Peter, Me 
+    To do YOLO notebook.  
+    Downloaded everything. Sunday - should be able to finish.  
+    
+  * Next meetup, 10/13/2020 TU 
+    New people will present "step-by-Step" notebook  
+    Back-prop is optional (2 sections) the more interesting parts. 
 
 ### Class 5: Sequence Models  
     Speech recognition, text analysis, sentiment analysis, temporal image/sound/text analysis.  
