@@ -89,6 +89,8 @@
   * Next small group - August 10, 2020 7pm.  
     Resnet notebook, class 4, week 2, 2nd notebook - Peter will lead.  
 
+#### Oct 6, 2020 Tu Art Style Transfer  
+  * YOLO read papers, tutorial Peter.  
 
 --- end ---   
 
