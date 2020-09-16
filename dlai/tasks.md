@@ -91,6 +91,7 @@
 
 #### Oct 6, 2020 Tu Art Style Transfer  
   * YOLO read papers, tutorial Peter.  
+  * Upload tor cat download instructions to slack.  
 
 --- end ---   
 
