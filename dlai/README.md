@@ -1,6 +1,8 @@
 # My practice - Coursera.org DeepLearning.AI Specialization  
 
-### Date: June 2020, currently reviewing CNN class with a local Meetup.  
+### Date: Sept 2020 update.  All notebooks behind paywall now, audit option is closed.  
+    Will download all notebooks, and move on to **fast.ai Practical Deep Learning for Coders***.  
+
 ### Author: Jennifer E Yoon  
 
 ### Environment and Setup   
