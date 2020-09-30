@@ -1,8 +1,8 @@
 # My practice - Coursera.org DeepLearning.AI Specialization  
 
-### Date: Sept 2020 update.  All notebooks behind paywall now, audit option is closed.  
+### Date: Sept 2020 update.  All notebooks and quizzes behind a paywall now, and audit option is closed.  
 Will download all notebooks, and move on to 
-***fast.ai Practical Deep Learning for Coders***  
+***fast.ai version 2, Practical Deep Learning for Coders***  
 
 ### Author: Jennifer E Yoon  
 
