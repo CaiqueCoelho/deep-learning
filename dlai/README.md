@@ -28,7 +28,7 @@ PATH: c:/python/repos/deep-learning/
   Data files for some weeks too large > 100MB, did not push to Github  
   (Instead in local c:\.~dlai-large-file folder.)
     \-  
-  * Oct 6th Tuesday.  small group.
+  * Oct 6th Tuesday 7pm,  small group.
   * Watched all videos on Art Style.  Next, run notebook, don't put too much time.  
   * Read paper on Art Style, YOLO Tutorial, Paper.  
     *   Here's the style transfer paper: https://arxiv.org/pdf/1508.06576.pdf
