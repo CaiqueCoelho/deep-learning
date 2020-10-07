@@ -3,8 +3,9 @@ https://github.com/fastai
 
 https://github.com/fastai/fastbook  
 good book, nicely condenses concepts in videos.  
-  * To add to repo, downloaded book zip - done.  
-  * Purchased physical book, 8/22/2020.  
+  * notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
+  * Next small group, to discuss - 10/12/2020 Monday.  
+
 
 2016 fast.ai founded.  
 
