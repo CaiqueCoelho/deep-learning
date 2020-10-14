@@ -4,7 +4,10 @@ https://github.com/fastai
 https://github.com/fastai/fastbook  
 good book, nicely condenses concepts in videos.  
   * notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
-  * Next small group, to discuss - 10/12/2020 Monday.  
+  
+  * Next DSML Meetup Nov 2020 - to discuss first 2 lessons, ateempt to set up environment on Colab GPU.  
+    Load external dataset, install libraries from a Jupyter notebook on Colab.  
+  * next small group?  Fundamentals?  
 
 
 2016 fast.ai founded.  
