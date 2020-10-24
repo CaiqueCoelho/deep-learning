@@ -1,6 +1,6 @@
 # My second attempt at fast.ai courses in deep learning - 2020.  
 
-   <img src="./fastaibook.jpg" alt="fastbook image" width="250">  
+   <img src="./fastbook.jpg" alt="fastbook image" width="150">  
    
   * fastai github main:  https://github.com/fastai  
   * fastbook github: https://github.com/fastai/fastbook  
@@ -10,7 +10,7 @@
     Load external dataset, install libraries from a Jupyter notebook on Colab.  
   * next small group? Chp 13 CNN fundamentals? Deep Face Coursera?  
 
-### History of Fast.AI, my note  
+### History of Fast.AI:
 
   * 2016 fast.ai founded.  
   * 2018 classes use fastai v 0.7   
