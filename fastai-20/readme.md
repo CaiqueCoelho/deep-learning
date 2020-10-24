@@ -1,5 +1,7 @@
 # My second attempt at fast.ai courses in deep learning - 2020.  
 
+   <img src="./fastbook.jpg" alt="fastbook image" width="250">  
+   
   * fastai github main:  https://github.com/fastai  
   * fastbook github: https://github.com/fastai/fastbook  
   * Notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
