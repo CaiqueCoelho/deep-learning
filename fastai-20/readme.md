@@ -1,14 +1,19 @@
-# My second attempt at fast.ai courses in deep learning - 2020.  
+# My 2nd attempt at fast.ai - 2020 version  
 
    <img src="./fastbook.jpg" alt="fastbook image" width="150">  
    
   * fastai github main:  https://github.com/fastai  
   * fastbook github: https://github.com/fastai/fastbook  
-  * Notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
+  * Amazon book link:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1  
+  
+  ---  
   
   * Next DSML Meetup Nov 2020 - to discuss first 2 lessons, ateempt to set up environment on Colab GPU.  
     Load external dataset, install libraries from a Jupyter notebook on Colab.  
-  * next small group? Chp 13 CNN fundamentals? Deep Face Coursera?  
+      * Notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
+      * Notebook 2)  https://github.com/fastai/fastbook/blob/master/02_production.ipynb  
+      
+  * Next small group? Chp 13 CNN fundamentals? Deep Face Coursera?  
 
 ### History of Fast.AI:
 
