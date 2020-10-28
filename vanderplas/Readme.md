@@ -6,7 +6,7 @@ Only post my own work here.  Reproduced examples and my applications/extensions.
 Jake Vanderplas Github Repo for book:  
     https://github.com/jakevdp/PythonDataScienceHandbook
 
-![Cover Image](https://github.com/JennEYoon/datasciY/blob/master/wip2-classes/vanderplas/figures/PDSH-cover-small.png)
+![Cover Image](https://github.com/JennEYoon/datasciY/blob/main/wip2-classes/vanderplas/figures/PDSH-cover-small.png)
 
 ### To Focus on **VanderPlas book exclusively** for reproduced projects.  
 
