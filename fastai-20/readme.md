@@ -13,7 +13,7 @@
       * Notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
       * Notebook 2)  https://github.com/fastai/fastbook/blob/master/02_production.ipynb  
       
-  * Next small group? Chp 13 CNN fundamentals? Deep Face Coursera?  
+  * Next small group, Dec 7, 2020 7pm : Chp 13 CNN fundamentals
 
 ### History of Fast.AI:
 
