@@ -2,30 +2,45 @@
 
    <img src="./fastbook.jpg" alt="fastbook image" width="150">  
    
-  * fastai github main:  https://github.com/fastai  
-  * fastbook github: https://github.com/fastai/fastbook  
-  * Amazon book link:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1  
+  * fastai github main:  https://github.com/fastai   
+  * fastbook github: https://github.com/fastai/fastbook   
+  * Amazon book:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1   
+  * Fast.ai website:  https://www.fast.ai/  
+  * Colab notebooks link, from fast.ai)  https://course.fast.ai/start_colab  
+    \-\-\-  
+  * Youtube playlist for 2020 version class part-1:  
+  https://m.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&noapp=1  
+  * Youtube playlist for fastai software components, 2020 version:  
+  https://m.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq  
+  * Youtube playlist for 2019 vesion class part-2 Foundations:  
+  https://m.youtube.com/playlist?list=PLfYUBJiXbdtTIdtE1U8qgyxo4Jy2Y91uj   
   
   ---  
   
-  * Next DSML Meetup Nov 2020 - to discuss first 2 lessons, ateempt to set up environment on Colab GPU.  
+  * Past DSML Meetup Nov 2020 - to discuss first 2 lessons, attempt to set up environment on Colab GPU.  
     Load external dataset, install libraries from a Jupyter notebook on Colab.  
       * Notebook 1)  https://github.com/fastai/fastbook/blob/master/01_intro.ipynb  
       * Notebook 2)  https://github.com/fastai/fastbook/blob/master/02_production.ipynb  
       
+  * Next DSML Meetup Dec 2020 - Several short presentations from new members.  
+     * Plus start of notebook 3 - limiting biases in data science  
+     * Me prsent start of noteoobk 4 - stochastic gradient descent  
+      
   * Next small group, Dec 7, 2020 7pm : Chp 13 CNN fundamentals
+
 
 ### History of Fast.AI:
 
   * 2016 fast.ai founded.  
   * 2018 classes use fastai v 0.7   
-  * 2019 classes use fastai v 1.0,  https://github.com/fastai/fastai  
+  * 2019 classes use fastai v 1.0,    
   * 2020 March class, use fastai v2, YouTube released 8/21/2020, uses v2 software.  
     https://github.com/fastai/course-v4 released 8/21/2020.  
+    Link was changed later.  
 
   * Software, fastai v2, released 8/21/2020. 
     3 other modules released as separate packages.    
-    https://github.com/fastai/fastai2   
+    https://github.com/fastai/fastai  (changed link)  
 
   * fastai v2 walkthrough 10 videos,  
     https://www.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq  
