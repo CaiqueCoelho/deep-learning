@@ -1,4 +1,4 @@
-### fast,ai, Jeremy Howard:   
+# Redec interview, my fastai notes   
 
 * fast.ai deep learning classes revisit.  https://github.com/fastai/fastbook  
   
