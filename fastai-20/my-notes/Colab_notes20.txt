@@ -16,7 +16,7 @@ Next, head on to the Colab Welcome Page and click on ‘Github’. In the ‘Ent
 
 
 If you started a notebook directly from https://course.fast.ai/start_colab, 
-A script will ask you to log into your Google account and enter a onte-time permission code.  
+A script will ask you to log into your Google account and enter a one-time permission code.  
 [Demo this on Intro-to-Jypter notebook]
 
 
@@ -31,7 +31,7 @@ You should see your notebook displayed now. Before running anything, you need to
 Before you start using your notebook, you need to install the necessary packages. You can do this by **creating a code cell, and running**:
 
 
-[ New 2020 notebooks use command -Uqq unix command.]
+[ New 2020 notebooks use -Uqq Unix command.]
  
 !pip install -Uqq fastbook
 import fastbook
