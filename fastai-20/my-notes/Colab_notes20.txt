@@ -42,7 +42,7 @@ When you run the first cell, you will face a pop-up saying ‘Warning: This note
 
 Run the next cell to import all supporting materials from fastbook. 
 
-from fastbook import
+from fastbook import * 
 
 
 ### Step 3:  Saving your notebook  
