@@ -24,7 +24,7 @@
       
   * Next DSML Meetup Dec 2020 - Several short presentations from new members.  
      * Plus start of notebook 3 - limiting biases in data science  
-     * Me prsent start of noteoobk 4 - stochastic gradient descent  
+     * Me present start of noteoobk 4 - stochastic gradient descent, MNIST example  
       
   * Next small group, Dec 7, 2020 7pm : Chp 13 CNN fundamentals
 
@@ -35,8 +35,7 @@
   * 2018 classes use fastai v 0.7   
   * 2019 classes use fastai v 1.0,    
   * 2020 March class, use fastai v2, YouTube released 8/21/2020, uses v2 software.  
-    https://github.com/fastai/course-v4 released 8/21/2020.  
-    Link was changed later.  
+    Link was changed later, https://course.fast.ai/
 
   * Software, fastai v2, released 8/21/2020. 
     3 other modules released as separate packages.    
