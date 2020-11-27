@@ -14,7 +14,9 @@
       Ex vision:  fastai/nbs/07_vision.core.ipynb   
       https://github.com/fastai/fastai/blob/master/nbs/07_vision.core.ipynb  
     - #hide, :s, :note -- commands for producing printed book.  
-    - In Data Cleanup step, interactive combo-box selection -- produced with "nbdev". It's a Jupyter Widget.  
+    - In Data Cleanup step, interactive combo-box selection -- is a Jupyter Widget, ***ipywidgets***.  
+    - Voila is a browser-rendering service, so users who do not know about Jupyter Notebook can interact with "widgets".  
+    - I think these use ***nbdev*** package.  
     
   * Later - Ubuntu workspace remove:  
     * Fastai folders, except keep 1.  Maybe on C:/python side.  Update from Github.  
