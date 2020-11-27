@@ -1,4 +1,4 @@
-# Fastai Class my notes, 
+# Fastai Class 2020 - my notes  
 
 #### Nov 26, 2020  
 
@@ -20,3 +20,5 @@
     * Fastai folders, except keep 1.  Maybe on C:/python side.  Update from Github.  
     * Coursera CL4 downlaods, delete all except 1. Already on Github.  Large datafiles, keep in C drive, not upload to Github. 
       Keep Google Drive link share for large data files, pre-built model files.  
+
+---  
