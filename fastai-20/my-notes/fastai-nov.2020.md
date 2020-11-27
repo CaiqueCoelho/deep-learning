@@ -17,6 +17,7 @@
     - In Data Cleanup step, interactive combo-box selection -- is a Jupyter Widget, ***ipywidgets***.  
     - Voila is a browser-rendering service, so users who do not know about Jupyter Notebook can interact with "widgets".  
     - I think these use ***nbdev*** package.  
+    - Can deploy to mybinder.org.  Not using GPU, but OK for verifying 1 image.  
     
   * Later - Ubuntu workspace remove:  
     * Fastai folders, except keep 1.  Maybe on C:/python side.  Update from Github.  
