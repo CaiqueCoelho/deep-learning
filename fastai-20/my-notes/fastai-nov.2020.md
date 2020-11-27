@@ -14,10 +14,11 @@
       Ex vision:  fastai/nbs/07_vision.core.ipynb   
       https://github.com/fastai/fastai/blob/master/nbs/07_vision.core.ipynb  
     - #hide, :s, :note -- commands for producing printed book.  
+    - @decorator is used a lot in code.  Class method and function calls.  
     - In Data Cleanup step, interactive combo-box selection -- is a Jupyter Widget, ***ipywidgets***.  
+      Looks very simple. Has numerical slider, check box, button-click, combo-selection box, image show, video player, upload file function.  Can hide all notebook except widget and markdown text cell.  
     - Voila is a browser-rendering service, so users who do not know about Jupyter Notebook can interact with "widgets".  
-    - I think these use ***nbdev*** package.  
-    - Can deploy to mybinder.org.  Not using GPU, but OK for verifying 1 image.  
+    - Can deploy to mybinder.org with Voila.  Not using GPU, but OK for verifying 1 image.  
     
   * Later - Ubuntu workspace remove:  
     * Fastai folders, except keep 1.  Maybe on C:/python side.  Update from Github.  
