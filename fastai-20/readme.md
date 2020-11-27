@@ -8,6 +8,12 @@
   * Fast.ai website:  https://www.fast.ai/  
   * Colab notebooks link, from fast.ai)  https://course.fast.ai/start_colab  
     \-\-\-  
+  * fastai software is best studied in "nbs" folder.  
+    Unfortunately, this is too big to copy to this repo, 650 MB.  
+    Fork into another repo to study.  
+      Interesting example, in vision: fastai/nbs/07_vision.core.ipynb  
+      https://github.com/fastai/fastai/blob/master/nbs/07_vision.core.ipynb  
+    \-\-\-  
   * Youtube playlist for 2020 version class part-1:  
   https://m.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&noapp=1  
   * Youtube playlist for fastai software components, 2020 version:  
