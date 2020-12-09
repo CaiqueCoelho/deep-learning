@@ -13,7 +13,7 @@ array(im3)[4:10, 4:10]  shows numpy array
 dtype = uint8, talk about this tye, all postiive numbers, 0 to 255, 8 bit unsigned.  
 
 Switch to tensors (PyTorch)  
-im3_t = tnesor(ime)  
+im3_t = tensor(im3)  
 df.pd.DataFrame(im3_t[4:15, 4:22])
 Set style - switch black and white, make background white. Matplotlib style command
 
