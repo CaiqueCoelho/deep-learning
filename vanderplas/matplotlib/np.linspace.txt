@@ -1,0 +1,27 @@
+# np.linspace - for plot axis  
+
+np.linspace(start, stop, numsteps, endpoint=false) 
+
+x1 = np.linspace(0, 2, 10)  
+Creates 10 equally distributed data points from 0 to 2.  
+
+np.arange(start, stop, stepsize)  
+
+x2 = np.arange(0, 2, .25)  
+Creates distributed points from 0 to 2 at .25 increments.  
+
+linear spacing > linspace 
+geomspace 
+logspace   
+
+
+Matplotlib  
+
+y1 = sin(x1)  
+plt.plot(x1, y1)  
+
+fig, ax = plt.subplots(1)  
+ax[0] = plt.plot(x2, cos(x2))
+
+something is missing, mixed up.  Review. 
+Dec 12, 2020.  
