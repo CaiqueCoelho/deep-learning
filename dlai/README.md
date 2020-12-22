@@ -20,21 +20,14 @@ All notebooks and quizzes behind a paywall now, and audit option is closed.
   * Finished in Jan 2020.
 
 ### Class 4: Convolutional Neural Networks 
-  Downloaded tar files to local computer, all notebooks work.  
-  Manually copied image folder, and other sub folders to Github.  
-  Data files for some weeks too large > 100MB, did not push to Github  
-  (Instead in local c:\.~dlai-large-file folder.)
-    \-  
-  * Oct 6th Tuesday 7pm,  small group.
-  * Watched all videos on Art Style.  Next, run notebook, don't put too much time.  
+  * Finished with small group in Nov 2020. 
   * Read paper on Art Style, YOLO Tutorial, Paper.  
     *   Here's the style transfer paper: https://arxiv.org/pdf/1508.06576.pdf
     *   Here's the original yolo paper: https://arxiv.org/pdf/1506.02640.pdf
     *   YOLO tutorial: https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088#:~:text=YOLO%20uses%20sum%2Dsquared%20error,The%20loss%20function%20composes%20of%3A&text=the%20localization%20loss%20(errors%20between,the%20objectness%20of%20the%20box)  
 
----  
-
-### Class 5: Sequence Models  
+### Class 5: Sequence Models   
+  * To do on my own in Q1 2021.  
   * Speech recognition, text analysis, sentiment analysis, temporal image/sound/text analysis.  
   * Chollet book also has a chapter on sequence models.  
 
