@@ -1,15 +1,10 @@
-# My practice - Coursera.org DeepLearning.AI Specialization  
+# My practice - Coursera.org DeepLearning.AI  
 
 ### Date: Sept 30, 2020 update.  All notebooks and quizzes behind a paywall now, and audit option is closed.  
 Will download all notebooks, and move on to 
 ***fast.ai version 2, March 2020 class, Practical Deep Learning for Coders***  
 
 ### Author: Jennifer E Yoon  
-
-### Environment and Setup   
-Default env is Colab.  No CPU env yet, fastai installed on Ubuntu side, "fastai20" conda env.  
-Local storage moved in July 2020 to C: directory.  
-PATH: c:/python/repos/deep-learning/  
 
 ---  
 
@@ -44,9 +39,7 @@ PATH: c:/python/repos/deep-learning/
 ---  
 
 ### Class 5: Sequence Models  
-    Speech recognition, text analysis, sentiment analysis, temporal image/sound/text analysis.  
-
-  * May 2020 - started watching videos and looking at notebooks.  
+  * Speech recognition, text analysis, sentiment analysis, temporal image/sound/text analysis.  
   * Chollet book also has a chapter on sequence models.  
 
 ### Folder "source" has all downloaded notebook solutions and important papers.  
