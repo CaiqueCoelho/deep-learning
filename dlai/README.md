@@ -7,7 +7,7 @@ Will download all notebooks, and move on to
 ### Author: Jennifer E Yoon  
 
 ### Environment and Setup   
-I use conda environment **dlpy from Ubuntu (WSL) side**.   
+Default env is Colab.  No CPU env yet, fastai installed on Ubuntu side, "fastai20" conda env.  
 Local storage moved in July 2020 to C: directory.  
 PATH: c:/python/repos/deep-learning/  
 
