@@ -1,7 +1,9 @@
 # My practice - Coursera.org DeepLearning.AI  
 
-### Date: Sept 30, 2020 update.  All notebooks and quizzes behind a paywall now, and audit option is closed.  
-Will download all notebooks, and move on to 
+### Date: Sept 30, 2020 update.  
+All notebooks and quizzes behind a paywall now, and audit option is closed.  
+
+ * Nov & Dec 2020 Meetups were from ***fast.ai 2020 classes***   
 ***fast.ai version 2, March 2020 class, Practical Deep Learning for Coders***  
 
 ### Author: Jennifer E Yoon  
