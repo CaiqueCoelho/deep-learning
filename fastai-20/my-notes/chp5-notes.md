@@ -1,6 +1,5 @@
 # Starting Chapter 5  
 
-Dec 10, 2020 - watching videos.  
+#### Jan 22, 2021 Friday:  
 
-Fastai Part 2 2019 videos not directly applicable to book, 2020v.  
-SWIFT intro last 2 videos.  
+Prep for Feb Meetup, me present chp 5.  Do all of it?  
