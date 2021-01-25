@@ -1,4 +1,4 @@
-# reading notes
+# my reading notes
 
 Date: Jan 25, 2021  
 Author: Jennifer Yoon  
@@ -15,3 +15,10 @@ Takes a while to run 20 layers at the end.  Try 100 layers, but with some twicks
 Smooth SGD image impressive.  Rough valleys without residual network.  
 
 <img alt="Impact of ResNet on loss landscape" width="600" caption="Impact of ResNet on loss landscape (courtesy of Hao Li et al.)" id="resnet_surface" src="att_00044.png">
+
+### More:  
+
+Try reproducing notebook without pre-populated code.  
+Try on other datasets.  
+Study loading data from URL, datasets, dataLoader, chp11 munging datasets.  
+\
