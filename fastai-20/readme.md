@@ -7,8 +7,6 @@
   * fast book github: https://github.com/fastai/fastbook   
   * Amazon fast book:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1   
    <img src="./fastbook.jpg" alt="fastbook image" width="150">  
-   
-    \-\-\-  
 
   * Youtube playlist for 2020 version class part-1:  
   https://m.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM&noapp=1  
