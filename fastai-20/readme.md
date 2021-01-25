@@ -1,14 +1,13 @@
 # My 2nd attempt at fast.ai - 2020 version  
 
 ### Resources, Links:  
-
+  * Fast.ai website:  https://www.fast.ai/  
+  * Colab notebooks link, from fast.ai)  https://course.fast.ai/start_colab    
+  * fastai github main:  https://github.com/fastai   
+  * fast book github: https://github.com/fastai/fastbook   
+  * Amazon fast book:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1   
    <img src="./fastbook.jpg" alt="fastbook image" width="150">  
    
-  * fastai github main:  https://github.com/fastai   
-  * fastbook github: https://github.com/fastai/fastbook   
-  * Amazon book:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1603575065&sr=8-1   
-  * Fast.ai website:  https://www.fast.ai/  
-  * Colab notebooks link, from fast.ai)  https://course.fast.ai/start_colab  
     \-\-\-  
 
   * Youtube playlist for 2020 version class part-1:  
