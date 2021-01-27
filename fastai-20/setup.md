@@ -4,6 +4,15 @@ Ubuntu - conda env "fastai20" created.
 Need to load book content, fastbook.  But init.py requires Cuda GPU.  
 Load version without, look at forum.   
 
+Docker Image - only for GPU, install Nvidea Cuda docker image first - not recommended for class CPU users.  
+CPU users - install miniconda or anaconda.  
+
+fastai20 env setup on Ubuntu done.  
+To install book:  
+>conda activate fastai20  
+>conda install fastbook 
+>?  Did yesterday, seems to install into library. Check env path.  
+
 DataBlock class study  
 
 dataLoader thin class study  
