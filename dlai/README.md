@@ -1,5 +1,9 @@
 # Coursera.org DeepLearning.AI  
 
+***Content moved to new repo, "Coursera-DLAI"  
+
+Move date:  Feb 19, 2021 by Jennifer Yoon  
+
 ### Date: Sept 30, 2020 update.  
 All notebooks and quizzes behind a paywall now, and audit option is closed.  
 
