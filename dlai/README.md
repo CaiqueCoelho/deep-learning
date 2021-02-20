@@ -1,14 +1,8 @@
 # Coursera.org DeepLearning.AI  
 
-***Content moved to new repo, "Coursera-DLAI"  
+***Content moved to new repo, "Coursera-DLAI"***    
 
-Move date:  Feb 19, 2021 by Jennifer Yoon  
-
-### Date: Sept 30, 2020 update.  
-All notebooks and quizzes behind a paywall now, and audit option is closed.  
-
- * Nov & Dec 2020 Meetups were from ***fast.ai 2020 classes***   
-***fast.ai version 2, March 2020 class, Practical Deep Learning for Coders***  
+### Move date:  Feb 19, 2021 by Jennifer Yoon  
 
 ### Author: Jennifer E Yoon  
 
