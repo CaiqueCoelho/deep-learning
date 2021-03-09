@@ -24,10 +24,15 @@ We're going to jump straight to a somewhat tricky variant of image regression, b
 
 ### 3. Data Pre-Processing, Pandas, Regular Expression, Fastai  
   * Pandas cheatsheet  
+    - https://docs.google.com/viewer?url=https%3A%2F%2Fpandas.pydata.org%2FPandas_Cheat_Sheet.pdf&embedded=true&chrome=false&dov=1  
   * Vanderplas book  
+    - https://github.com/jakevdp/PythonDataScienceHandbook  
   * McKinney book  
+    - https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=10272796695638732188&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007587&hvtargid=pla-396828636441&psc=1  
   * Regular Expression website - also many games  
+    - https://docs.python.org/3/library/re.html  
   * Fastai DataBlock, Data Loader, Tutorials  
+    - https://docs.fast.ai/  
 
 ### 4. Group Project Proposal - Planet 2017 Kaggle Challenge  
  * Show how to download from Kaggle  
