@@ -17,6 +17,7 @@
  * Show how to download from Kaggle  
    - https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data  
    - Project Proposal:  https://github.com/JennEYoon/geo-ml/blob/main/rainforest/proposal.md  
+   - Notice 2 student projects links, on my proposal page.  
    - Slack new channel - join by browsing for channel, **Amazon Rainforest**  
  * tif, jpg, and convert to rgb  
    ```python  
