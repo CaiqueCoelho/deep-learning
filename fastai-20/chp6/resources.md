@@ -2,7 +2,7 @@
 
 ### 1. Multiclass Classification  
 
-> Multi-label classification refers to the problem of identifying the categories of objects in images that may not contain exactly one type of object. There may be more than one kind of object, or there may be no objects at all in the classes that you are looking for.
+Multi-label classification refers to the problem of identifying the categories of objects in images that may not contain exactly one type of object. There may be more than one kind of object, or there may be no objects at all in the classes that you are looking for.
 
 For instance, this would have been a great approach for our bear classifier. One problem with the bear classifier that we rolled out in <
 
@@ -13,7 +13,7 @@ First, let's see what a multi-label dataset looks like, then we'll explain how t
 ### 2. Regression, continuous variable  
 
  * 2.a  Middle of face, not nose.  
- * > It's easy to think of deep learning models as being classified into domains, like computer vision, NLP, and so forth. And indeed, that's how fastai classifies its applications—largely because that's how most people are used to thinking of things.
+It's easy to think of deep learning models as being classified into domains, like computer vision, NLP, and so forth. And indeed, that's how fastai classifies its applications—largely because that's how most people are used to thinking of things.
 
 But really, that's hiding a more interesting and deeper perspective. A model is defined by its independent and dependent variables, along with its loss function. That means that there's really a far wider array of models than just the simple domain-based split. Perhaps we have an independent variable that's an image, and a dependent that's text (e.g., generating a caption from an image); or perhaps we have an independent variable that's text and dependent that's an image (e.g., generating an image from a caption—which is actually possible for deep learning to do!); or perhaps we've got images, texts, and tabular data as independent variables, and we're trying to predict product purchases... the possibilities really are endless.
 
