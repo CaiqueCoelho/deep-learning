@@ -15,6 +15,9 @@
 
 ### 4. Group Project Proposal - Planet 2017 Kaggle Challenge  
  * Show how to download from Kaggle  
+   - https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data  
+   - Project Proposal:  https://github.com/JennEYoon/geo-ml/blob/main/rainforest/proposal.md  
+   - Slack new channel - join by browsing for channel, **Amazon Rainforest**  
  * tif, jpg, and convert to rgb  
    ```python  
    from PIL import Image
