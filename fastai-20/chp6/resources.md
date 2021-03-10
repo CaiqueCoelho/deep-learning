@@ -51,7 +51,7 @@ We're going to jump straight to a somewhat tricky variant of image regression, b
    print(im.mode)  # Output: CMYK
 
    if im.mode == 'CMYK': 
-    rgb_image = im.convert('RGB')
+       rgb_image = im.convert('RGB')
     
    rgb_image  
    # Add .show() if not running in a Jupyter notebook
@@ -61,7 +61,7 @@ We're going to jump straight to a somewhat tricky variant of image regression, b
    - Caution: May move folders around and temporarily rename repo to perform cleanup.  
    - Repo size getting close to 1 GB, made the mistake of pushing many image files.  
  * \-\-\-    
- * Contact info: Jennifer Yoon, jenneyoon@gmail.com, datasciY.com
-   Github:  https://github.com/JennEYoon  
-   Leesburg, Virginia, USA
+ * Contact info: Jennifer Yoon, jenneyoon@gmail.com, datasciY.com  
+   Github:  https://github.com/JennEYoon   
+   Leesburg, Virginia, USA   
    
