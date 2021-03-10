@@ -1,5 +1,8 @@
 # Fastai Chp 6 talk, resources  
 
+ * fastai chp 6 notebook, run on Google Colab:  
+   - https://github.com/JennEYoon/deep-learning/blob/main/fastai-20/fastbook/06_multicat_JY_full2.ipynb  
+
 ### 1. Multiclass Classification  
 
 Multi-label classification refers to the problem of identifying the categories of objects in images that may not contain exactly one type of object. There may be more than one kind of object, or there may be no objects at all in the classes that you are looking for.
