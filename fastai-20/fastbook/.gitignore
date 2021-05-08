@@ -1,3 +1,5 @@
+.gitattributes
+models/
 tmp/
 *.bak
 *.pkl
