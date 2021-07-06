@@ -1,0 +1,13 @@
+July 4, 2021  
+
+
+Created new "base" env on Windows OS, miniconda, Python v 3.9.  
+Latest stable PyTorch (CPU only) and TensorFlow (CPU and GPU auto detect)
+
+Fastbook -- needs Ubuntu to be installed.  Not work on Windows OS.  
+
+To upgrade Ubuntu to WSL2.  
+Setup miniconda3
+Load libraries  
+Load fastbook contents 
+
