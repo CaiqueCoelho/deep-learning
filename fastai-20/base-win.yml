@@ -2,8 +2,13 @@
 # size 6.8 GB
 # Installed latest as of 7/4/2021, stable versions.
 # Python 3.9
-# numpy, pandas 1.30, matplotlib, scikit-learn, scikit-image, pytorch 1.9.0 (cpu & cuda), tensorflow 2.5.0 (cpu only & cuda)
+# numpy, pandas 1.30, matplotlib, scikit-learn, scikit-image, 
+# pytorch 1.9.0 (cpu & cuda), 
+# tensorflow 2.5.0 (cpu only & cuda), 
 # jupyter lab, nb, ipython 
+# No fastai or fastbook, currently not supported on Windows OS. 
+# Keep fastai20 env on Ubuntu, Python v3.6 
+# (Python upgrade not compatible with fastbook).  
 # 
 name: base
 channels:
