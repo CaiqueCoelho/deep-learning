@@ -14,3 +14,11 @@
   * Image also stack into long rows, then puts back into shape.  But does not break up word wrapping, one long row per image. Sentences are not all the same length, need to keep track of which cell was next at the edges of block.  
 
   * Sequence Models - Image use cases, lookup movie sequential scenes matching, cropped image putting back together, high res & low res image, in order to produce high res images from low res inputs.  Fill-in missing concreteness in image.  Medical applications, DL image sharper than original image, damaged during cutting.  
+
+#### 8/3/2021 main meetup, update:  
+ * nbs missing images.  
+ * review, run code.  
+ * watch Pytorch char tutorial, present.  
+ 
+ 
+ 
