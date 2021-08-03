@@ -14,3 +14,8 @@
 >   64 images in datablock, 1 channel color b/w, 28 rows, 28 cols in image.  
 
 * Greek Letters - upload page  
+
+Conv math graphics paper, Mar 2016 first uploaded to arXiv.org  
+https://arxiv.org/pdf/1603.07285.pdf  
+To re-read.  very good explanation of math.  
+
