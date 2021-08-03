@@ -10,5 +10,5 @@ Fastbook -- needs Python v 3.6 or 3.7.  Can't upgrade to v 3.9.
 To upgrade Ubuntu to WSL2.  
 Setup miniconda3
 Load libraries  
-Load fastbook contents 
+Load fastbook contents, fastai library   
 
