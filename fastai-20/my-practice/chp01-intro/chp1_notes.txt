@@ -1,5 +1,6 @@
 # Chp 1 notes  
 
+#### 8/15/2021 Monday, 8:30 am to 12:30 pm. 4 hrs.  
 Cat example:  Upload button, show uploaded image, seems to work but not sure.  
 learn.save() worked!  Saved to mounted gdrive. downloaded to local computer.  
 
