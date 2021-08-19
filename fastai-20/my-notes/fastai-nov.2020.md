@@ -8,8 +8,8 @@
     - Install -c fastai fastai (includes all other python libraries)  
     
   * Video Lesson 3 - covers fastbook nb2, but goes into more depth.  
-    - To see parameters of fastai functions, move pointer to inside ( ) sift+click. 
-      Dropdown menu with full parameters.  Deomoed for data augmentation settings.  
+    - To see parameters of fastai functions, move pointer to inside ( ) shift+click [shift+tab]. 
+      Dropdown menu with full parameters.  Demoed for data augmentation settings.  
     - To examine fastai package code, use "nbs" folder.  Easier to view, full documentation.  
       Ex vision:  fastai/nbs/07_vision.core.ipynb   
       https://github.com/fastai/fastai/blob/master/nbs/07_vision.core.ipynb  
