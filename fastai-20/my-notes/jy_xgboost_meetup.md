@@ -20,7 +20,7 @@ SGBoost optimizer necessary points:
 These improvements help solve very large data models with minimum resources.  Linear like growth in resources for improvements in time. 
 
 ### Boosting vs Random Forest  
-\(from XGBOOST docs:  https://xgboost.readthedocs.io/en/latest/tutorials/rf.html\)
+\(from XGBOOST docs:  https://xgboost.readthedocs.io/en/latest/tutorials/rf.html\)  
 "XGBoost is normally used to train gradient-boosted decision trees and other gradient boosted models. Random Forests use the same model representation and inference, as gradient-boosted decision trees, but a different training algorithm. One can use XGBoost to train a standalone random forest or use random forest as a base model for gradient boosting."   
 
 Boosting trees learn sequentially. Earlier trees fit simpler models.  Later trees input resulting errors and fit complex models for finer predictions.  The "Boosting" is used to describe interdependent trees model.  
