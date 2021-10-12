@@ -17,3 +17,6 @@ Python Dask (parallel) application available.
 
 refers to paper:  
 
+### My contact  
+Jennifer E. Yoon  github: https://github.com/JennEYoon/  
+email:  jenneyoon@gmail.com  
