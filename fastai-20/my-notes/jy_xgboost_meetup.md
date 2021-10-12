@@ -28,7 +28,7 @@ Boosting trees learn sequentially. Earlier trees fit simpler models.  Later tree
 
 ### SGBoost software library 
 Python Dask (parallel) application available.  
-Supports multiple languages  
+Supports multiple languages (Python, R, Scala, Julia)   
 
 ### My contact  
 Jennifer E. Yoon  github: https://github.com/JennEYoon/  
