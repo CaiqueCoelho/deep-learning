@@ -11,7 +11,7 @@ XGBoost is used primarily on tabular data or on structured data kept in database
 Fastbook chp9: Tabular Data Deep Dive.
 Tabular data primarily uses an ensemble of decision trees models, Random Forest or XGBoost.  Deep learning models sometimes works a little better.  The advantage of tree-based models is their ease of interpretability. Easier to answer questions like, "which columns (features) in the dataset were the most important?  How are the dependent variable (column, features) related (correlated)?  Which features were most important for select datasets (rows)?
 
-SGBoost optimizer necessary points: 
+XGBoost optimizer necessary points: 
  * is sparce tree aware 
  * weighted quantile search capable for approximate learning
  * cache access patterns and
