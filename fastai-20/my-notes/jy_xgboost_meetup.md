@@ -26,7 +26,7 @@ These improvements help solve very large data models with minimum resources.  Li
 Boosting trees learn sequentially. Earlier trees fit simpler models.  Later trees input resulting errors and fit complex models for finer predictions.  The "Boosting" is used to describe interdependent trees model.  
 
 
-### SGBoost software library 
+### XGBoost software library 
 Python Dask (parallel) application available.  
 Supports multiple languages (Python, R, Scala, Julia)   
 
