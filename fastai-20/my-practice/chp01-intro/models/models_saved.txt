@@ -1,2 +1,0 @@
-too large for repo, 256 MB.  
-Saved to "Colab Notebooks/data/models/" + pets-gpu-rn34.pth

@@ -1,5 +1,9 @@
 # My 2nd attempt at fast.ai - 2020 version  
 
+> All of my working jupyter notebooks and study notes moved to "fastai-dl-study" repo.    
+> See "fastbook" folder in:  https://github.com/JennEYoon/fastai-dl-study
+
+
 ### Resources, Links:  
   * Fast.ai website:  https://www.fast.ai/  
   * Colab notebooks link, from fast.ai)  https://course.fast.ai/start_colab    
