@@ -1,6 +1,6 @@
-# My 2nd attempt at fast.ai - 2020 version  
+# fast.ai, Practical Deep Learning for Coders, 2020 course.    
 
-> All of my working jupyter notebooks and study notes moved to "fastai-dl-study" repo.    
+> All of my working jupyter notebooks and study notes were moved to "fastai-dl-study" repo.    
 > See "fastbook" folder in:  https://github.com/JennEYoon/fastai-dl-study
 
 
@@ -19,6 +19,8 @@
   * Youtube playlist for 2019 vesion class part-2 Foundations:  
   https://m.youtube.com/playlist?list=PLfYUBJiXbdtTIdtE1U8qgyxo4Jy2Y91uj   
    
+  > As of October 2021, part 2 YouTube video is still not available.   
+  > There was supposed to be an extra online only chapter on generative deep learning.  This chapter also does not exist as of October 2021.   
 
 ### History of Fast.AI:
 
@@ -27,7 +29,7 @@
   * 2019 classes use fastai v 1.0,    
   * 2020 March class, use fastai v2, YouTube released 8/21/2020, uses v2 software. 
     Link was changed later, https://course.fast.ai/
-  * March 2021 - Jeremy Howard moved to Australia. 
+  * March 2021 - Jeremy Howard moved to Australia with Rachel Thomas. 
     - Releases video 0, how to learn using fast.ai. 
     - Part 2 of fastbook and 2020 course - not here as of June 30, 2021.  Said he will release soon. 2021 Fall?  
 
